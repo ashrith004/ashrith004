@@ -83,6 +83,7 @@ Advanced SQL-powered funnel analysis on **9,381+ user events** from 5,000 users.
 [![View Dashboard](https://img.shields.io/badge/View_Dashboard-38BDF8?style=flat-square&logo=tableau&logoColor=white)](https://drive.google.com/file/d/1vnb-k1BqH2rBDONI_4EH3BwR9074Cq8J/view?usp=drive_link)
 
 </td>
+
 <td width="50%">
 
 ### 👥 HR Analytics Dashboard
@@ -99,6 +100,7 @@ Workforce analytics on **20,000+ employee records**.
 
 </td>
 </tr>
+
 <tr>
 <td width="50%">
 
@@ -113,6 +115,7 @@ Exploratory analysis on **50,000+ retail transactions**.
 - Full data storytelling with visual reporting
 
 </td>
+
 <td width="50%">
 
 ### 🍕 Pizza Sales Dashboard
@@ -129,38 +132,40 @@ Revenue analytics on **21,000+ orders worth $8.17M**.
 
 </td>
 </tr>
+
 <tr>
-<td colspan="2">
+<td width="50%">
 
 ### 🛵 Blinkit Sales Dashboard
 > **Power BI · MySQL · Python · Excel**
 
-Interactive retail analytics dashboard on **50,000+ transactions** across Blinkit outlets, tracking Total Sales, Avg. Sales, Item Count, and Customer Ratings.
+Interactive retail analytics dashboard on **50,000+ transactions** across Blinkit outlets.
 
-- 📈 Performed time-series analysis to identify sales trends and high-performing outlets
-- 🔍 Built dynamic filters for granular, data-driven decision-making
-- 🏪 Compared outlet-level performance across the Blinkit network
+- 📈 Time-series analysis of sales trends
+- 🔍 Dynamic filters for data exploration
+- 🏪 Outlet-level performance comparison
 
 [![Live Dashboard](https://img.shields.io/badge/Live_Dashboard-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://app.powerbi.com/links/vz6IQlawHL?ctid=07fd52b9-f7b7-477a-bcca-3d87f125f9c2&pbi_source=linkShare&bookmarkGuid=b7e72270-c5f8-40b5-a9c8-7f580f87caa9)
 
 </td>
+
 <td width="50%">
 
 ### 💊 Pharmaceutical Sales Dashboard
 > **Power BI · SQL · Excel**
 
-Interactive healthcare analytics dashboard analyzing **10,000+ pharmaceutical sales records (2010–2026)**.
+Healthcare analytics dashboard analyzing **10,000+ pharmaceutical sales records (2010–2026)**.
 
 - 💰 Tracked **25M+ units sold** and **1M prescriptions**
-- 📊 Analyzed revenue trends across **drug categories and regions**
-- 🏥 Evaluated hospital-level drug distribution
-- 🎯 Built dynamic slicers for **Drug Name, Category, Region, and Year**
+- 📊 Revenue analysis by **drug category & region**
+- 🏥 Hospital-level drug distribution insights
+- 🎯 Dynamic filters for **Drug, Category, Region, Year**
 
-[![View Dashboard](https://app.powerbi.com/links/8HaPOEiTiI?ctid=07fd52b9-f7b7-477a-bcca-3d87f125f9c2&pbi_source=linkShare)](#)
+[![View Dashboard](https://img.shields.io/badge/View_Dashboard-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://app.powerbi.com/links/8HaPOEiTiI?ctid=07fd52b9-f7b7-477a-bcca-3d87f125f9c2&pbi_source=linkShare)
 
 </td>
 </tr>
-<td width="50%">
+
 </table>
 
 ---
