@@ -159,10 +159,12 @@ Revenue analytics on **21,000+ orders worth $8.17M**.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ashrith004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=ffffff" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrith004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=ffffff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ashrith004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=ffffff&count_private=true&include_all_commits=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrith004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=ffffff&langs_count=6" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashrith004&theme=tokyonight&hide_border=true&background=0d1117&stroke=38BDF8&ring=38BDF8&fire=FF6B6B&currStreakLabel=38BDF8" width="500"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashrith004&theme=tokyonight" width="700"/>
+
+[![GitHub](https://img.shields.io/badge/View_Full_GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashrith004)
 
 </div>
 
