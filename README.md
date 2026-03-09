@@ -145,6 +145,37 @@ Interactive retail analytics dashboard on **50,000+ transactions** across Blinki
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+### 💊 Pharmaceutical Sales Dashboard
+> **Power BI · SQL · Excel**
+
+Interactive healthcare analytics dashboard analyzing **10,000+ pharmaceutical sales records (2010–2026)**.
+
+- 💰 Tracked **25M+ units sold** and **1M prescriptions**
+- 📊 Analyzed revenue trends across **drug categories and regions**
+- 🏥 Evaluated hospital-level drug distribution
+- 🎯 Built dynamic slicers for **Drug Name, Category, Region, and Year**
+
+[![View Dashboard](https://img.shields.io/badge/View_Dashboard-F2C811?style=flat-square&logo=powerbi&logoColor=black)](#)
+
+</td>
+<td width="50%">
+
+### 📊 SQL User Behavior & Revenue Analysis
+> **SQL · MySQL · Data Analysis**
+
+Behavioral analytics project analyzing **9,381+ user events from 5,000 users** to understand customer journeys and purchase patterns.
+
+- 🔍 Identified **69% drop-off before cart stage**
+- 💰 Analyzed **$87,975 revenue from 826 purchases**
+- ⏱️ Calculated **24.6 min average purchase journey**
+- ⚙️ Used **CTEs, CASE WHEN, GROUP BY, TIMESTAMPDIFF, COUNT(DISTINCT)**
+[![View Dashboard](https://drive.google.com/file/d/1vnb-k1BqH2rBDONI_4EH3BwR9074Cq8J/view)](#)
+</td>
+
+</tr>
 </table>
 
 ---
