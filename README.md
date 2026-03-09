@@ -129,6 +129,22 @@ Revenue analytics on **21,000+ orders worth $8.17M**.
 
 </td>
 </tr>
+<tr>
+<td colspan="2">
+
+### 🛵 Blinkit Sales Dashboard
+> **Power BI · MySQL · Python · Excel**
+
+Interactive retail analytics dashboard on **50,000+ transactions** across Blinkit outlets, tracking Total Sales, Avg. Sales, Item Count, and Customer Ratings.
+
+- 📈 Performed time-series analysis to identify sales trends and high-performing outlets
+- 🔍 Built dynamic filters for granular, data-driven decision-making
+- 🏪 Compared outlet-level performance across the Blinkit network
+
+[![Live Dashboard](https://img.shields.io/badge/Live_Dashboard-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://app.powerbi.com/links/vz6IQlawHL?ctid=07fd52b9-f7b7-477a-bcca-3d87f125f9c2&pbi_source=linkShare&bookmarkGuid=b7e72270-c5f8-40b5-a9c8-7f580f87caa9)
+
+</td>
+</tr>
 </table>
 
 ---
