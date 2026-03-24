@@ -184,9 +184,9 @@ Healthcare analytics dashboard analyzing **10,000+ pharmaceutical sales records 
 ---
 
 ## 📜 Certifications
-- 🎓 **Data Visualisation: Empowering Business with Effective Insights – Tata Group
-- 🎓Deloitte Australia’s Data Analytics – Deloitte
-- 🎓 Quantium’s Data Analytics – Quantium
+- 🎓 **Data Visualisation: Empowering Business with Effective Insights** – Tata Group
+- 🎓 **Deloitte Australia’s Data Analytics** – Deloitte
+- 🎓 **Quantium’s Data Analytics** – Quantium
 - 🎓 **Introduction to Data Analytics** — IBM
 - 🎓 **Data Science & Analytics** — Hewlett Packard (HP)
 - 🐍 **100 Days of Code: Python Pro Bootcamp** — Udemy
